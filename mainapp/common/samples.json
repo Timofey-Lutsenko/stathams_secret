@@ -1,0 +1,41 @@
+{
+  "cols": [
+    "form_template"
+  ],
+  "data": [
+      {
+        "name": "user_register_form",
+        "user_name": "str",
+        "user_mail": "email",
+        "user_phone": "phone",
+        "date_of_birth": "date"
+      }
+  ,
+      {
+        "name": "order_form",
+        "customer_name": "str",
+        "customer_mail": "email",
+        "customer_phone": "phone",
+        "date_of_order": "date"}
+  ,
+      {
+        "name": "abs_test_form",
+        "string": "str",
+        "mail": "email",
+        "phone": "phone",
+        "date": "date"
+      }
+  ,
+    {
+      "name": "short_test",
+      "text": "str",
+      "date": "date"
+    }
+  ,
+    {
+        "name": "contacts_form",
+        "personal_phone": "str",
+        "personal_email": "email"
+    }
+  ]
+}
